@@ -3,6 +3,7 @@
 ## Introduction
 
 This repository contains a jupyter notebook with code required to create models to predict the survival of passengers on the Titanic. The data used for this project is from the [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic).
+[Kaggle entry of this notebook](https://www.kaggle.com/code/bubuss/0-84449-python-2023-june-knn-ensemble-wcg)
 
 ## Goal
 

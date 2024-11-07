@@ -9,8 +9,21 @@ This repository contains a jupyter notebook with code required to create models 
 The goal of this project is to create a model that accurately predicts who survives. The accuracy is the percentage of passengers that are correctly predicted to have survived.
 
 ## Setup
-1) Clone this repository to your machine or download the files.
-2) Go to Google Colab: https://colab.research.google.com
-3) Select file > Upload notebook. Upload `titanic_prediction.ipynb`
-4) Now you need data. Select the Files icon in the left menu and click "upload to session storage". Choose train.csv and test.csv from data/titanic.
+1) Clone this repository: `$ git clone https://github.com/Eliassoren/Titanic_Survival_Prediction.git` to your machine or just download the files.
+2) Go to Google Colab in your browser: https://colab.research.google.com
 
+3) Select file > Upload notebook. Upload `titanic_prediction.ipynb` which is found under predict/titanic
+
+![upload notebook](documentation/images/upload_notebook.png "Upload notebook")
+
+4) Now you need data. Select the Files icon in the left menu and click "upload to session storage". Choose train.csv, test.csv and output.csv from data/titanic.
+
+![upload files 1](documentation/images/upload_data.png "Upload files")
+
+![upload files 2](documentation/images/upload_data_select_files.png "Select files")
+
+
+## Learn
+
+Click play to run code in cells. 
+![run code](documentation/images/run-cell.png.png)

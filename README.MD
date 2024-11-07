@@ -28,4 +28,4 @@ The goal of this project is to create a model that accurately predicts who survi
 ## Learn
 
 Click play to run code in cells. 
-![run code](documentation/images/run-cell.png.png)
+![run code](documentation/images/run-cell.png)

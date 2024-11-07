@@ -10,6 +10,9 @@ The goal of this project is to create a model that accurately predicts who survi
 
 ## Setup
 1) Clone this repository: `$ git clone https://github.com/Eliassoren/Titanic_Survival_Prediction.git` to your machine or just download the files.
+
+![qr](qr.png)
+
 2) Go to Google Colab in your browser: https://colab.research.google.com
 
 3) Select file > Upload notebook. Upload `titanic_prediction.ipynb` which is found under /titanic
